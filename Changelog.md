@@ -2,7 +2,7 @@
 
 ## master (unreleased)
 
-Nothing here yet.
+- Change registry mechanism to avoid circular imports (#288).
 
 ## v5.0.0 (2019-05-24)
 
